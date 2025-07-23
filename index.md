@@ -1,51 +1,32 @@
 ---
-layout: default
-title: Introduction to Python – STEP Program
+title: Intro to Python – Summer 2025
 ---
 
-# 👨‍🏫 Introduction to Python  
-**STEP (KAUST Academy) Pre-University Program**  
-🗓️ **June 29 – August 14, 2025**  
-📍 **King Abdullah University of Science and Technology (KAUST)**  
-👤 Taught by: **Hikmatullo Ismatov**
+# 👨‍💻 Introduction to Python  
+**KAUST STEPs Pre-University Program**  
+**June 29 – August 14, 2025**
 
----
+This beginner-level Python programming course is designed for Saudi pre-university students at KAUST. It introduces basic programming concepts and builds a solid foundation for future STEM education.
 
-## 🧠 Course Description
-
-This course introduces Saudi high school students to the fundamentals of Python programming.  
-We focus on hands-on learning through challenges, examples, and creative projects.
-
----
-
-## 📅 Weekly Plan
-
-| Week | Topics |
-|------|--------|
-| 1 | Input/output, variables, data types |
-| 2 | Strings, lists, conditionals |
-| 3 | Loops, functions |
-| 4 | Files, error handling |
-| 5 | Working with libraries (random, math, csv) |
-| 6 | Project development |
-| 7 | Final project presentation and wrap-up |
+### 📚 Topics Covered
+- Input & Output
+- Variables and Data Types
+- Strings and Lists
+- Conditionals (if/else)
+- Loops (for, while)
+- Functions
+- Working with Files
+- Final Project
 
 ---
 
-## 📂 Course Materials
-
-- 📘 [Notebooks](./notebooks/)
-- 📝 [Quizzes](./quizzes/)
-- 📂 [Slides](./slides/)
-- 🧪 [Projects](./projects/)
-
----
-
-## 📬 Contact
-
-For questions, feedback, or help, reach out:  
-📧 hikmatullo.ismatov (at) kaust.edu.sa
+### 📂 Materials
+- [📁 Notebooks](./notebooks/)
+- [🧪 Quizzes](./quizzes/)
+- [🎞️ Slides](./slides/)
+- [💡 Projects](./projects/)
 
 ---
 
-_This page is hosted on [GitHub Pages](https://pages.github.com)._
+👨‍🏫 Instructor: Hikmatullo Ismatov  
+🌐 Website: [hikmatulloismatov1999.github.io](https://hikmatulloismatov1999.github.io)
