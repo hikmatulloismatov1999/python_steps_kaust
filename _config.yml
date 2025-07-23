@@ -1,2 +1,8 @@
-theme: minima
 title: Intro to Python – KAUST STEPs
+theme: minima
+markdown: kramdown
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
