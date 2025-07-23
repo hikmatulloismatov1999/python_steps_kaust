@@ -1,2 +1,4 @@
-# python_steps_kaust
-Intro to Python course for Saudi pre-university students at KAUST (STEPs Program KAUST ACADEMY), Summer 2025.
+#Intro to Python – Summer 2025
+A beginner-level Python programming course for Saudi pre-university students, part of the STEPs Program at KAUST Academy.
+Instructor: Hikmatullo Ismatov
+Website: hikmatulloismatov199.github.io
