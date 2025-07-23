@@ -1,4 +1,4 @@
-![Python Logo](assets/images/me.jpeg
+(![Python Logo](assets/images/me.jpeg)
 ---
 title: Intro to Python – Summer 2025
 layout: default
