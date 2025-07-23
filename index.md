@@ -1,5 +1,6 @@
 ---
 title: Intro to Python – Summer 2025
+layout: default
 ---
 
 # 👨‍💻 Introduction to Python  
