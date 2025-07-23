@@ -1,9 +1,11 @@
-(![Python Logo](assets/images/me.jpeg)
+
 ---
 title: Intro to Python – Summer 2025
 layout: default
 ---
-
+<p align="center">
+  <img src="assets/images/cover.png" width="600" alt="Python Course Banner"/>
+</p>
 
 # 👨‍💻 Introduction to Python  
 **KAUST STEPs Pre-University Program**  
