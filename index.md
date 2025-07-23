@@ -44,7 +44,7 @@ We focus on hands-on learning through challenges, examples, and creative project
 ## 📬 Contact
 
 For questions, feedback, or help, reach out:  
-📧 hikmatullo (at) kaust.edu.sa
+📧 hikmatullo.ismatov (at) kaust.edu.sa
 
 ---
 
