@@ -28,7 +28,8 @@ This beginner-level Python programming course is designed for Saudi pre-universi
 ## 📂 Materials
 
 - [📁 Notebooks](notebooks/)
-- [📝 Quizzes](quizzes/python_Placemant_exam.pdf)
+- [📝 Quizzes](quizzes.md)
+
 - [🎞️ Slides](slides/)
 - [💡 Projects](projects/)
 
