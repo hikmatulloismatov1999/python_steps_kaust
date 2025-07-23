@@ -25,11 +25,12 @@ This beginner-level Python programming course is designed for Saudi pre-universi
 
 ---
 
-### 📂 Materials
-- [📁 Notebooks](./notebooks/)
-- [🧪 Quizzes](./quizzes/)
-- [🎞️ Slides](./slides/)
-- [💡 Projects](./projects/)
+## 📂 Materials
+
+- [📁 Notebooks](notebooks/)
+- [📝 Quizzes](quizzes/)
+- [🎞️ Slides](slides/)
+- [💡 Projects](projects/)
 
 ---
 
