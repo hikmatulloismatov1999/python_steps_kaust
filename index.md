@@ -2,6 +2,7 @@
 title: Intro to Python – Summer 2025
 layout: default
 ---
+![Python Logo](assets/images/your_image_me.jpeg)
 
 # 👨‍💻 Introduction to Python  
 **KAUST STEPs Pre-University Program**  
